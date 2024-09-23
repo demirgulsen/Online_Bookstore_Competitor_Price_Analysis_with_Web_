@@ -2,7 +2,7 @@
 Bu proje ile Online kitap satışı yapan bir kitapçının, “Seyahat” ve “Kurgu Dışı” kategorilerinde az satış yaptığının tespit edilmesi üzerine rakip firmanın kazınması izin verilen https://books.toscrape.com/ 
 adlı web sitesinden “Travel” ve “Nonfiction” kategorisindeki kitaplara ait bilgileri alıp rakip ve fiyat analizi yapması hedeflenmiştir.
 Mağazanın isteği, bu kategorilerdeki her bir kitaba ait detay sayfalarına gidilmesi ve orada bulunan bazı bilgilerin alınmasıdır.
-# Proje Akışı
+## Proje Akışı
 1. "Travel" ve "Nonfiction" kategorilerine ait kitapların yer aldığı sayfa linklerini ana sayfa içerisinden almak.
 2. İlk kategoriye ait ürünlerin bulunduğu sayfa görüntülenerek, tüm kitapların detay sayfalarına erişmek için linkler kazınmalı.
 3. Kazınan linkler kullanılarak o kategoriye ait tüm kitapların detay bilgileri kazınmalı.
@@ -13,7 +13,7 @@ With this project, a bookstore that sells books online, Upon determining that th
 in the “Travel” and “Nonfiction” categories from the website https://books.toscrape.com/, which was allowed to be scraped by the competitor company, and conducted a competitor and price analysis.
 to do this.
 The store's request is to go to the detail pages of each book in these categories and retrieve some information found there.
-# Project Flow
+## Project Flow
 1. Books in the categories of “Travel” and “Nonfiction” getting page links from the main page.
 2. Page with products belonging to the first category should be displayed and links should be scraped to access the detail pages of all books.
 3. Use the scraped links to scrape the detail information of all books belonging to that category.
